@@ -1,0 +1,49 @@
+Python is a high-level programming language.
+
+A variable is used to store data.
+
+Example:
+name = "Prasanna"
+
+A for loop is used to repeat a block of code.
+
+Example:
+for i in range(5):
+    print(i)
+
+An if statement is used to make decisions.
+
+Example:
+if age >= 18:
+    print("Adult")
+
+A function is a reusable block of code.
+
+Example:
+def add(a, b):
+    return a + b
+
+A list stores multiple values.
+
+Example:
+numbers = [10, 20, 30]
+
+A dictionary stores data using key-value pairs.
+
+Example:
+student = {"name": "John", "age": 20}
+
+A while loop repeats code while a condition is true.
+
+Example:
+while x < 5:
+    print(x)
+    x += 1
+
+A syntax error happens when Python code does not follow Python's syntax rules.
+
+An indentation error happens when Python indentation is incorrect.
+
+A NameError happens when a variable or function name is not defined.
+
+A TypeError happens when an operation is performed on an inappropriate data type.
